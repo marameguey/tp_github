@@ -1,0 +1,11 @@
+
+body{
+    margin: 0;
+    background-color: rgb(70, 109, 109);
+    width: 10%;
+}
+h1{
+    text-align: center;
+    color: blue;
+    margin: 50%;
+}
